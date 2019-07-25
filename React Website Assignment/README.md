@@ -61,8 +61,7 @@ In dev mode, the frontend will run on localhost:3000 and the backend on localhos
 
 ### Design process
 
-
-
+The process of designing the application started with talking to the clients and establishing their needs. During this discussion we were able to sketch out a basic outline which contained the features they needed. This basic drawing was turned into a wireframe of the application which was then built.
 
 ### User stories
 
@@ -83,23 +82,21 @@ Customer user stories:
 
 ### A workflow diagram of the user journey/s.
 
-![User Flow Diagram](/docs/UserFlowDiagram.png)
+![User Flow Diagram](https://github.com/TSaker95/FinalAssignmentdocs/blob/master/React%20Website%20Assignment/docs/UserFlowDiagram.png)
 
 ### Wireframes
 
-[The wireframes can be viewed as a PDF here](/docs/wireframe.pdf)
+[The wireframes can be viewed as a PDF here](https://github.com/TSaker95/FinalAssignmentdocs/blob/master/React%20Website%20Assignment/docs/wireframes.pdf)
 
 ### Database Entity Relationship Diagrams
 
-![Entity Relationship Diagram](/docs/entity-relation.png)
+![Entity Relationship Diagram](https://github.com/TSaker95/FinalAssignmentdocs/blob/master/React%20Website%20Assignment/docs/entity-relation.png)
 
 ### Data Flow Diagram
 
-![Data Flow Diagram](/docs/Data-flow.png)
+![Data Flow Diagram](https://github.com/TSaker95/FinalAssignmentdocs/blob/master/React%20Website%20Assignment/docs/Data-flow.png)
 
 ## Project management & planning process
-
-### Project plan & timeline
 
 ### Client communications
 
@@ -124,7 +121,6 @@ Met with clients to update them on progress and show them current implementation
 Showed clients final state of the backend of the site. They were very pleased and were able to use it without issues.
 
 ### Screenshots of Trello board
-
 
 ![Screenshot, 10/7/19. ](docs/Trelloscreenshot-10-7-19.png)
 ![Screenshot, 11/7/19. ](docs/Trelloscreenshot-11-7-19.png)
