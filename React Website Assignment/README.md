@@ -198,7 +198,7 @@ Patience, understanding and a calm mind.
 
 ### E: Evaluate how effective your knowledge and skills were this project, using examples, and suggest changes or improvements for future projects of a similar nature?
 
-Rhys:
+#### Rhys
 
 Leading into the project I felt I had a solid understanding of the essential components of a fully functioning MERN application. I was able to outline my share of the work, draw from past lessons and resources, and begin building the foundation of the project. For the most part, any major issues or gaps in knowledge were eventually remedied through searching online and reading the documentation.
 
@@ -207,3 +207,15 @@ There are many areas I would improve were I to redo the project. Having learnt m
 While the clients were satisfied with the end product, and did not have any major UX/UI problems while using it, I feel the dashboard could be better in a lot of areas. I would have liked to implement pagination, search, filtering and bulk actions in order to improve the longevity and scalability of the product.
 
 Finally, I think using an SQL database would have been a better approach. This is due to the relations that exist between entities, and the necessity to track these relations. 
+
+#### Matthew
+
+I think my knowledge and skills were up to the task. I wasn't hugely confident in my frontend ability, but fortunately that side of the app was handled by my teammates. On the backend, I was able to achieve everything I set out to do, including close alignment between production, development, and testing environments, deploying the entire app through one service instead of three, and keeping code modularised and DRY through sensible abstractions and functional composition.
+
+Future projects of a similar nature would be better served by using an SQL database, probably postgres.
+
+If we had extra time we'd give webpack instructions on splitting the app to minimise loadtimes. In the deployed version, grocery store customers who only want to see the store's hours are served the entire react app, including the JS necessary to render the admin dashboard. The final bundle size is only ~300KB, so it's not a huge issue, but having a lightning-fast website adds legitmacy to the business.
+
+#### Torryn
+
+//
