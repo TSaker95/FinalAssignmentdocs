@@ -16,7 +16,6 @@ https://github.com/TSaker95/FinalAssignmentdocs
 
 Hillsdon Grocer currently has a simple, static website. While this fulfills most of their needs, they would like something more dynamic allowing them to better publicise products on sale. Ideally, they would like to be able to fill out a title, description and sale price and have it automatically displayed on their website.
 
-
 ### Functionality / features
 
 Our solution to this is to create a login portal which then leads them to a dashboard showing current specials as well as ways to create, edit and delete specials. Once saved the current specials will be rendered on the homepage of their website within a specials section.
@@ -25,10 +24,10 @@ The dashboard it broken into two sections, products and specials. The user adds 
 
 ### Screenshots
 
-Todo: take screenshots of site, upload to repo, link here
-
-
-
+![Desktop layout of the website's front page](docs/hillsdon-desktop.png)
+![Mobile layout of the website's front page](docs/hillsdon-mobile.png)
+![The admin dashboard](docs/hillsdon-dashboard.png)
+![A modal in the admin dashboard](docs/hillsdon-modal.png)
 
 ### Tech stack (e.g. html, css, deployment platform)
 
@@ -208,5 +207,3 @@ There are many areas I would improve were I to redo the project. Having learnt m
 While the clients were satisfied with the end product, and did not have any major UX/UI problems while using it, I feel the dashboard could be better in a lot of areas. I would have liked to implement pagination, search, filtering and bulk actions in order to improve the longevity and scalability of the product.
 
 Finally, I think using an SQL database would have been a better approach. This is due to the relations that exist between entities, and the necessity to track these relations. 
-
-
