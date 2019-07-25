@@ -218,4 +218,4 @@ If we had extra time we'd give webpack instructions on splitting the app to mini
 
 #### Torryn
 
-//
+Working with my teammates I was able to use what I had learnt to create the homepage and customer facing side of the website. I do however have plenty of room to improve across the board and overall the project has been a learning experience where I was able to apply my knowledge and develop it further.
