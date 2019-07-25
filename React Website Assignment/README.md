@@ -31,7 +31,7 @@ The dashboard it broken into two sections, products and specials. The user adds 
 
 ### Tech stack (e.g. html, css, deployment platform)
 
-The website is built using React on the frontend, MongoDB to store the data and Node with Express on the server side to retrieve and render data.
+The website is built using React on the frontend, MongoDB to store the data and Node with Express on the server side to retrieve and render data. All portions of the app are managed through Heroku: the client is built with webpack and babel and served via the same express process that runs the API. An mlab instance is provisioned via a Heroku addon. This makes managing the app in its deployed form relatively easy.
         
 #### Prerequisites
 
